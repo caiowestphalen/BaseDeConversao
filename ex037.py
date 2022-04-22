@@ -1,4 +1,4 @@
-#Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+# Digite um número inteiro e converta ele utilizando o menu de interação.
 
 print('\033[0;0;36m-=\033[m'*20)
 num = int(input('\033[0;0;31mDigite um número inteiro: \033[m'))
